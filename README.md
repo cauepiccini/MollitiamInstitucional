@@ -5,7 +5,7 @@
 
 Site institucional da Mollitiam focado em apresentação de serviços, portfólio e captação de clientes. O projeto é um site estático otimizado para SEO, preparado como PWA e com boas práticas de performance (pré-carregamento, DNS prefetch e assets versionados).
 
-- **Produção**: `[https://mollitiam.com.br](https://mollitiamdevelopment.great-site.net)`
+- **Produção**: `https://mollitiamdevelopment.great-site.net`
 - **Idioma**: pt-BR
 - **Padrões**: SEO, Open Graph, Twitter Cards, PWA, acessibilidade básica
 
