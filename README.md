@@ -1,5 +1,5 @@
 # Site Mollitiam
-<img src="screenshots/tela-inicial.png" width="500"/>
+<img src="screenshots/LOGOMollitiam.png" width="600"/>
 
 ## Visão Geral
 
