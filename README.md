@@ -1,4 +1,5 @@
 # Site Mollitiam
+<img src="screenshots/tela-inicial.png" width="500"/>
 
 ## Visão Geral
 
@@ -52,26 +53,26 @@ npx serve -l 5173
 ## 📱 Screenshots
 
 ### 1. Tela Inicial
-<img src="screenshots/tela-inicial.png" width="300"/>
+<img src="screenshots/tela-inicial.png" width="500"/>
 
 ### 2. Metodologia da Mollitiam
-<img src="screenshots/metodo.png" width="300"/>
+<img src="screenshots/metodo.png" width="500"/>
 
 ### 3. O que a Mollitiam Oferece
-<img src="screenshots/Ofere.png" width="300"/>
+<img src="screenshots/Ofere.png" width="500"/>
 
 ### 4. Algumas Tecnologias que Usamos
-<img src="screenshots/tec.png" width="300"/>
+<img src="screenshots/tec.png" width="500"/>
 
 ### 5. Projetos da Mollitiam
-<img src="screenshots/projeto.png" width="300"/>
-<img src="screenshots/projeto2.png" width="300"/>
+<img src="screenshots/projeto.png" width="500"/>
+<img src="screenshots/projeto2.png" width="500"/>
 
 ### 6. Contato com a Mollitiam
-<img src="screenshots/contato.png" width="300"/>
+<img src="screenshots/contato.png" width="500"/>
 
 ### 7. Footer
-<img src="screenshots/footer.png" width="300"/>
+<img src="screenshots/footer.png" width="500"/>
 
 
 ## Licença
